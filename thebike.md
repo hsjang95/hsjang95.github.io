@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Thebike
+permalink: /thebike/
 ---
 
 Some information about you!
